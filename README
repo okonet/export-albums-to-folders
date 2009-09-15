@@ -1,0 +1,1 @@
+Action Script for iTunes allowing to copy selected albums to a specified location. It creates the folder structure in the specified directory using the following directory mask: [Artist] - [Album] ([YYYY]). Useful to copy bunch of albums to a different location.
